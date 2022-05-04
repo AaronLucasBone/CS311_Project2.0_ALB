@@ -1,0 +1,11 @@
+C:\Users\TCW\source\repos\CS311_Project2Attempt2_ALB\CS311_Project2Attempt2_ALB\bin\Debug\CS311_Project2Attempt2_ALB.exe.config
+C:\Users\TCW\source\repos\CS311_Project2Attempt2_ALB\CS311_Project2Attempt2_ALB\bin\Debug\CS311_Project2Attempt2_ALB.exe
+C:\Users\TCW\source\repos\CS311_Project2Attempt2_ALB\CS311_Project2Attempt2_ALB\bin\Debug\CS311_Project2Attempt2_ALB.pdb
+C:\Users\TCW\source\repos\CS311_Project2Attempt2_ALB\CS311_Project2Attempt2_ALB\obj\Debug\CS311_Project2Attempt2_ALB.csproj.AssemblyReference.cache
+C:\Users\TCW\source\repos\CS311_Project2Attempt2_ALB\CS311_Project2Attempt2_ALB\obj\Debug\CS311_Project2Attempt2_ALB.csproj.SuggestedBindingRedirects.cache
+C:\Users\TCW\source\repos\CS311_Project2Attempt2_ALB\CS311_Project2Attempt2_ALB\obj\Debug\CS311_Project2Attempt2_ALB.Form1.resources
+C:\Users\TCW\source\repos\CS311_Project2Attempt2_ALB\CS311_Project2Attempt2_ALB\obj\Debug\CS311_Project2Attempt2_ALB.Properties.Resources.resources
+C:\Users\TCW\source\repos\CS311_Project2Attempt2_ALB\CS311_Project2Attempt2_ALB\obj\Debug\CS311_Project2Attempt2_ALB.csproj.GenerateResource.cache
+C:\Users\TCW\source\repos\CS311_Project2Attempt2_ALB\CS311_Project2Attempt2_ALB\obj\Debug\CS311_Project2Attempt2_ALB.csproj.CoreCompileInputs.cache
+C:\Users\TCW\source\repos\CS311_Project2Attempt2_ALB\CS311_Project2Attempt2_ALB\obj\Debug\CS311_Project2Attempt2_ALB.exe
+C:\Users\TCW\source\repos\CS311_Project2Attempt2_ALB\CS311_Project2Attempt2_ALB\obj\Debug\CS311_Project2Attempt2_ALB.pdb
